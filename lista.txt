@@ -1,4 +1,5 @@
 tortelloni
-tagliolini
+fusilli
 agnolotti
+tortiglioni
 farfalle
